@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>bootstrap4rtl</id>
+    <version>4.3.1</version>
+    <title>Bootstrap4rtl CSS</title>
+    <authors>The Bootstrap Authors,Twitter Inc.,Hamze Sheykh shoae (dev62.com) حمزه شسخ شعاعی</authors>
+    <owners>bootstrap</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://shoae.github.io/bootstrap4rtl/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/shoae/bootstrap4rtl/master/assets/apple-touch-icon-rtl.png</iconUrl>
+    <description>bootstrap 4.3.1 rtl Persian 
+بوت استرپ 4.3.1 راست چین فارسی 
+به همراه نمونه قالب های موجود در سایت اصلی 
+حمزه شیخ شعاعی http://dev62.com
+The most popular front-end framework for developing responsive, mobile first projects on the web.</description>
+    <releaseNotes>https://blog.getbootstrap.com/</releaseNotes>
+    <copyright>Copyright 2017-2019</copyright>
+    <tags>bootstrap 4.3.1 rtl Persian بوت استرپ راست چین فارسی</tags>
+    <dependencies>
+      <dependency id="jQuery" version="[3.0.0, 4.0.0)" />
+      <dependency id="popper.js" version="[1.14.0, 2.0.0)" />
+    </dependencies>
+  </metadata>
+</package>
